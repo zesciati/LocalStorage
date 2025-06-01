@@ -54,7 +54,8 @@ body {
   padding-left: 12px;
   ;
   border: none;
-
+  box-shadow: none;
+  outline: none;
 }
 
 .text {
