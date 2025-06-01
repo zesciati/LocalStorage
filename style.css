@@ -1,6 +1,7 @@
 :root {
   --color-white: aliceblue;
   --color-dark: black;
+  --font-family1: 'Roboto', Courier, monospace;
 }
 
 html {
@@ -23,6 +24,8 @@ body {
   align-items: center;
   height: 100vh;
   flex-flow: column;
+  font-family: var(--font-family1);
+
 }
 
 .container,
